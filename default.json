@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "text": "What is Tom Wait's first album?",
+      "correct_idx": 1,
+      "possibilities": [
+        "Blonde on Blonde",
+        "Closing Time",
+        "Rain Dogs",
+        "Small Change"
+      ]
+    },
+    {
+      "text": "What is, objectively, Fugazi's best song?",
+      "correct_idx": 3,
+      "possibilities": [
+        "Bulldog Front",
+        "Six Pack",
+        "London's Calling",
+        "Waiting Room"
+      ]
+    },
+    {
+      "text": "In what famous TV show Bruce Springsteen's E street band member participated in?",
+      "correct_idx": 0,
+      "possibilities": [
+        "The Sopranos",
+        "The Wire",
+        "South Park",
+        "Better Call Saul"
+      ]
+    },
+    {
+      "text": "Which Joanna Newsom song was the 1st to exceed 10 minutes?",
+      "correct_idx": 2,
+      "possibilities": [
+        "Good Intentions Paving Company",
+        "Baby Birch",
+        "Emily",
+        "Only Skin"
+      ]
+    }
+  ]
+}
