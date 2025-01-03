@@ -1,3 +1,4 @@
+# Task
 Fast Track Code Test Quiz - Instructions
 
 Preferred Components:
@@ -14,3 +15,14 @@ User stories/Use cases:
 
 How it should be delivered?
 After you complete it, please, share with us the GitHub link to the public repository so they can access it.
+
+# Solution
+Running the API (in 1st session):
+```bash 
+go run ./cmd/api/main.go
+```
+
+Running the client (in 2nd session - will work only if server is running):
+```bash
+go run ./cmd/client/main.go
+```
